@@ -2,7 +2,7 @@
 
 A fast and intuitive translation app built with **React, TypeScript, and Vite**. It allows users to translate text, switch languages, listen to translations, and copy text effortlessly.
 
-![preview][public/preview.png]
+![preview](public/preview.png)
 
 ## 🚀 Features
 
